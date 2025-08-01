@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAJULAAKHILA469
+- 👋 Hi, I’m @GAJULAAKHILA
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
